@@ -17,3 +17,5 @@ Boredom in the form of image can be found in [./image](./image) folder. You can 
 ## Contributing
 
 Please find the contributing guide [here](./CONTRIBUTING). Contributions are super welcomed!
+
+If you have any suggestions to improve the project, please submit an issue and we can discuss it!
