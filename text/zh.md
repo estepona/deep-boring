@@ -1,4 +1,4 @@
-张秉寰, esteponawondering@gmail.com
+张秉寰, Binghuan Zhang, esteponawondering@gmail.com
 
 > 一只有塑料脑袋的瘦鸭子。
 

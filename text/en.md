@@ -1,4 +1,4 @@
-Binghuan Zhang, esteponawondering@gmail.com
+张秉寰, Binghuan Zhang, esteponawondering@gmail.com
 
 > Shorts is coming.
 
