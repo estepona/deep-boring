@@ -8,8 +8,12 @@ Are you burned out? Are you working too hard? Perhaps you should take a moment t
 
 ## Text
 
-Thoughts / ideas in the form of text can be found in [./text](./text) folder. You can find the markdown file named with your [languages' codes](https://www.loc.gov/standards/iso639-2/php/code_list.php) to get started.
+Boredom in the form of text can be found in [./text](./text) folder. You can find the markdown file named with your [languages' codes](https://www.loc.gov/standards/iso639-2/php/code_list.php) to get started.
 
 ## Image
 
-Thoughts / ideas in the form of image can be found in [./image](./image) folder. You can add an image and link that image with you in the [README](./image/README.md) file.
+Boredom in the form of image can be found in [./image](./image) folder. You can find the image and the author in the [README](./image/README.md) file.
+
+## Contributing
+
+Please find the contributing guide [here](./CONTRIBUTING). Contributions are super welcomed!
