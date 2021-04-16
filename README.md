@@ -18,6 +18,10 @@ Boredom in the form of text can be found in [./text](./text) folder. You can fin
 
 Boredom in the form of image can be found in [./image](./image) folder. You can find the image and the author in the [README](./image/README.md) file.
 
+### Code
+
+Boredom in the form of code can be found in [./code](./code) folder. You can then find the folder named with your programming language to get started.
+
 ## Contributing
 
 Please find the contributing guide [here](./CONTRIBUTING). Contributions are super welcomed!
