@@ -6,4 +6,6 @@
 
 > Too much, too less.
 
+> I'm a digital nomad.
+
 ---
